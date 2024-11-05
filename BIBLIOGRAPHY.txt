@@ -1,0 +1,26 @@
+AI Generated Voice:
+-NaturalReaders.com
+- NaturalSoft Ltd.
+
+Horror Music & SFX:
+-Royalty free music from https://www.FesliyanStudios.com
+
+AI Generated Images (Razer Axon, Paid Service):
+-Main Home Page
+-Level 3 Lobby
+-Escape Images
+-Death Images
+
+
+Chess Board Image
+-Screenshot from Tabletop Simulator (Game which I own on Steam)
+
+Unreal Engine Created Images (I created these Using Built in Quixel Bridge 3D Models):
+-East Wing
+-West Wing
+
+Software Used
+-Clip Champ (Audio Editing)
+-UE5 (East, West Wing Scenes)
+-P5JS
+-Cloud Convert (MP4 to MP3 conversions)
